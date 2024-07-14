@@ -1,0 +1,23 @@
+{
+  "name": "node-1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveenk4-bit/Node-1.git"
+  },
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveenk4-bit/Node-1/issues"
+  },
+  "homepage": "https://github.com/Naveenk4-bit/Node-1#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

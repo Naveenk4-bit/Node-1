@@ -1,0 +1,16 @@
+npm init
+give this details in terminal after npm init 
+{
+    package name
+    entery point = some name
+    git repo link
+    author
+    last= yes
+}
+-------------------------------
+Node running command "node filename"
+
+----------------------------------
+to install run this comman npm i nodemon
+add this in package.json nodemon filename
+to run nodemon npm run dev
